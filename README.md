@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Harisravanth/Harisravanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m Harisravanth
+👀 Computer Science Engineering
+🌱 SASTRA University 2022-2026
+💻 Programming Languages: C, C++, Java, Python
+🌐 Web Development: HTML, CSS
+📊 Problem Solving: Data Structures and Algorithms (DSA), LeetCode
+🧠 Soft Skills: Fast learner, good communicator, strong team player
+💞️ I’m looking to collaborate on ... Any multinational company
+📫 How to reach me ...226003164@sastra.ac.in
+⚡
